@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+## Ziyi Lu
 
-You can use the [editor on GitHub](https://github.com/LuniumLuk/home.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+[github](https://github.com/LuniumLuk)
+[gitee](https://gitee.com/lunium)
+[email](3180101939@zju.edu.cn)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Undergraduate of Dept. of Computer Science Zhejiang University. I like Graphics, Web developing and Games.
 
-### Markdown
+### Some of My Works
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+-> A Visualization of Badminton Career Record
+<https://github.com/LuniumLuk/Badminton-Career-Vis>
 
-```markdown
-Syntax highlighted code block
+-> SIGGRAPH Asia 2020 X-Field implementation in pytorch
+<https://github.com/LuniumLuk/xfield-pytorch>
 
-# Header 1
-## Header 2
-### Header 3
+-> A Visualization Tool of Blockchain
+<https://github.com/LBruyne/view-blockchain>
 
-- Bulleted
-- List
+-> Global Game Jam 2021
+<https://www.bilibili.com/video/BV1Ty4y1n7uZ>
 
-1. Numbered
-2. List
+-> CiGA Game Jam 2021
+<https://www.bilibili.com/video/BV1dh411h7Na>
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/LuniumLuk/home.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+-> Game: Sisphury's Illusion
+<https://www.bilibili.com/video/BV1uM4y1N75u>
