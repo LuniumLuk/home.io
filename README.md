@@ -7,12 +7,15 @@ Undergraduate of Dept. of Computer Science Zhejiang University. I like Graphics,
 ## Ongoing Works
 ---
 
-#### Austin+ Wechat Miniprogram
-<img src="https://github.com/LuniumLuk/LuniumLuk/blob/fc651356edae0548eb883801afa73536acf3d266/images/austin_wx.jpg" width="100px" height="100px">
+#### - Austin+ Wechat Miniprogram
+<img src="https://luniumluk.github.io/images/austin_wx.jpg" width="100px" height="100px">
 
-#### Glyph SDK for JS
+#### - Glyph SDK for JS
+A Javascript SDK for Seal Glyphs Project
 
 ## Selection of My Works
+
+
 
 ### Computer Graphics & Visualization:
 
@@ -26,6 +29,8 @@ An implementation of SIGGRAPH Asia's 2020 paper: [X-Fields: Implicit Neural View
 
 #### 3. A Visualization Tool of Blockchain [github](https://github.com/LBruyne/view-blockchain)
 
+
+
 ### GAME:
 
 #### 1. Global Game Jam 2021 [bilibili](https://www.bilibili.com/video/BV1Ty4y1n7uZ)
@@ -34,13 +39,15 @@ An implementation of SIGGRAPH Asia's 2020 paper: [X-Fields: Implicit Neural View
 
 #### 3. Game: Sisphury's Illusion [bilibili](https://www.bilibili.com/video/BV1uM4y1N75u)
 
+
+
 ### MiniProgram:
 
 #### 1. Zeguan Seal Wechat Miniprogram
-<img src="https://github.com/LuniumLuk/LuniumLuk/blob/fc651356edae0548eb883801afa73536acf3d266/images/seal_wx.jpg" width="100px" height="100px">
+<img src="https://luniumluk.github.io/images/seal_wx.jpg" width="100px" height="100px">
 
 #### 2. AI Seal Ali Miniprogram
-<img src="https://github.com/LuniumLuk/LuniumLuk/blob/fc651356edae0548eb883801afa73536acf3d266/images/seal_ali.jpg" width="100px">
+<img src="https://luniumluk.github.io/images/seal_ali.jpg" width="100px">
 
 #### 3. KK Kanban
-<img src="https://github.com/LuniumLuk/LuniumLuk/blob/fc651356edae0548eb883801afa73536acf3d266/images/kk_wx.jpg" width="100px" height="100px">
+<img src="https://luniumluk.github.io/images/kk_wx.jpg" width="100px" height="100px">
