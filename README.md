@@ -5,7 +5,6 @@ Undergraduate of Dept. of Computer Science Zhejiang University. I like Graphics,
 [github](https://github.com/LuniumLuk) | [gitee](https://gitee.com/lunium) | [email](3180101939@zju.edu.cn)
 
 ## Ongoing Works
----
 
 #### - Austin+ Wechat Miniprogram
 <img src="https://luniumluk.github.io/images/austin_wx.jpg" width="100px" height="100px">
