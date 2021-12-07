@@ -1,39 +1,46 @@
-## Ziyi Lu
+# Ziyi Lu
 
-> Undergraduate of Dept. of Computer Science Zhejiang University. I like Graphics, Web developing and Games.
+Undergraduate of Dept. of Computer Science Zhejiang University. I like Graphics, Web developing and Games.
 
 [github](https://github.com/LuniumLuk) | [gitee](https://gitee.com/lunium) | [email](3180101939@zju.edu.cn)
 
-### Ongoing Works
+## Ongoing Works
+---
 
 #### Austin+ Wechat Miniprogram
-![](https://github.com/LuniumLuk/LuniumLuk/blob/fc651356edae0548eb883801afa73536acf3d266/images/austin_wx.jpg)
+<img src="https://github.com/LuniumLuk/LuniumLuk/blob/fc651356edae0548eb883801afa73536acf3d266/images/austin_wx.jpg" width="100px" height="100px">
 
-### Selection of My Works
+#### Glyph SDK for JS
 
-#### A Visualization of Badminton Career Record
-[github](https://github.com/LuniumLuk/Badminton-Career-Vis)
+## Selection of My Works
 
-#### SIGGRAPH Asia 2020 X-Field implementation in pytorch
-[github](https://github.com/LuniumLuk/xfield-pytorch)
+### Computer Graphics & Visualization:
 
-#### A Visualization Tool of Blockchain
-[github](https://github.com/LBruyne/view-blockchain)
+#### 1. A Visualization of Badminton Career Record [github](https://github.com/LuniumLuk/Badminton-Career-Vis)
 
-#### Global Game Jam 2021
-[bilibili](https://www.bilibili.com/video/BV1Ty4y1n7uZ)
+A visualization of badminton career life for badminton starts, developed with **Vue**, **D3js** and **Scrapy**
 
-#### CiGA Game Jam 2021
-[bilibili](https://www.bilibili.com/video/BV1dh411h7Na)
+#### 2. SIGGRAPH Asia 2020 X-Field implementation in pytorch [github](https://github.com/LuniumLuk/xfield-pytorch)
 
-#### Game: Sisphury's Illusion
-[bilibili](https://www.bilibili.com/video/BV1uM4y1N75u)
+An implementation of SIGGRAPH Asia's 2020 paper: [X-Fields: Implicit Neural View-, Light- and Time-Image Interpolation](https://xfields.mpi-inf.mpg.de/), with **Pytorch**
 
-#### Zeguan Seal Wechat Miniprogram
-![](https://github.com/LuniumLuk/LuniumLuk/blob/fc651356edae0548eb883801afa73536acf3d266/images/seal_wx.jpg)
+#### 3. A Visualization Tool of Blockchain [github](https://github.com/LBruyne/view-blockchain)
 
-#### AI Seal Ali Miniprogram
-![](https://github.com/LuniumLuk/LuniumLuk/blob/fc651356edae0548eb883801afa73536acf3d266/images/seal_ali.jpg)
+### GAME:
 
-#### KK Kanban
-![](https://github.com/LuniumLuk/LuniumLuk/blob/fc651356edae0548eb883801afa73536acf3d266/images/kk_wx.jpg)
+#### 1. Global Game Jam 2021 [bilibili](https://www.bilibili.com/video/BV1Ty4y1n7uZ)
+
+#### 2. CiGA Game Jam 2021 [bilibili](https://www.bilibili.com/video/BV1dh411h7Na)
+
+#### 3. Game: Sisphury's Illusion [bilibili](https://www.bilibili.com/video/BV1uM4y1N75u)
+
+### MiniProgram:
+
+#### 1. Zeguan Seal Wechat Miniprogram
+<img src="https://github.com/LuniumLuk/LuniumLuk/blob/fc651356edae0548eb883801afa73536acf3d266/images/seal_wx.jpg" width="100px" height="100px">
+
+#### 2. AI Seal Ali Miniprogram
+<img src="https://github.com/LuniumLuk/LuniumLuk/blob/fc651356edae0548eb883801afa73536acf3d266/images/seal_ali.jpg" width="100px">
+
+#### 3. KK Kanban
+<img src="https://github.com/LuniumLuk/LuniumLuk/blob/fc651356edae0548eb883801afa73536acf3d266/images/kk_wx.jpg" width="100px" height="100px">
