@@ -7,6 +7,7 @@
 ### Ongoing Works
 
 #### Austin+ Wechat Miniprogram
+![](https://github.com/LuniumLuk/LuniumLuk/blob/fc651356edae0548eb883801afa73536acf3d266/images/austin_wx.jpg)
 
 ### Selection of My Works
 
@@ -29,10 +30,10 @@
 [bilibili](https://www.bilibili.com/video/BV1uM4y1N75u)
 
 #### Zeguan Seal Wechat Miniprogram
-![](https://github.com/LuniumLuk/LuniumLuk/images/seal_wx.jpg)
+![](https://github.com/LuniumLuk/LuniumLuk/blob/fc651356edae0548eb883801afa73536acf3d266/images/seal_wx.jpg)
 
 #### AI Seal Ali Miniprogram
-![](https://github.com/LuniumLuk/LuniumLuk/images/seal_ali.jpg)
+![](https://github.com/LuniumLuk/LuniumLuk/blob/fc651356edae0548eb883801afa73536acf3d266/images/seal_ali.jpg)
 
 #### KK Kanban
-![](https://github.com/LuniumLuk/LuniumLuk/images/kk_wx.jpg)
+![](https://github.com/LuniumLuk/LuniumLuk/blob/fc651356edae0548eb883801afa73536acf3d266/images/kk_wx.jpg)
