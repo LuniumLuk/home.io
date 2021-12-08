@@ -7,7 +7,7 @@ Undergraduate of Dept. of Computer Science Zhejiang University. I like Graphics,
 ## Ongoing Works
 
 #### - Austin+ Wechat Miniprogram
-<img src="https://luniumluk.github.io/images/austin_wx.jpg" width="100px" height="100px">
+<img src="https://luniumluk.github.io/images/austin_wx.jpg" width="100px" height="100px" style="border-radius: 20px;">
 
 #### - Glyph SDK for JS
 A Javascript SDK for Seal Glyphs Project
