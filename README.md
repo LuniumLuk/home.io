@@ -2,12 +2,12 @@
 
 Undergraduate of Dept. of Computer Science Zhejiang University. I like Graphics, Web developing and Games.
 
-[github](https://github.com/LuniumLuk) | [gitee](https://gitee.com/lunium) | [email](3180101939@zju.edu.cn)
+[github](https://github.com/LuniumLuk) \| [gitee](https://gitee.com/lunium) \| [email](3180101939@zju.edu.cn)
 
 ## Ongoing Works
 
 #### - Austin+ Wechat Miniprogram
-<img src="https://luniumluk.github.io/images/austin_wx.jpg" width="100px" height="100px" style="border-radius: 20px;">
+<img src="https://luniumluk.github.io/images/austin_wx.jpg" width="100px" height="100px">
 
 #### - Glyph SDK for JS
 A Javascript SDK for Seal Glyphs Project
