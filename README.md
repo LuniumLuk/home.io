@@ -9,7 +9,7 @@ Undergraduate of Dept. of Computer Science Zhejiang University. I like Graphics,
 #### - Lu Renderer
 A Tiny Renderer that built on minimum requirements
 
-<img src="https://github.com/LuniumLuk/lurenderer/blob/main/images/triangle_rasterization.png" width="300px" height="300px">
+<img src="https://luniumluk.github.io/images/triangle_rasterization.png" width="300px" height="300px">
 
 #### - Austin+ Wechat Miniprogram
 <img src="https://luniumluk.github.io/images/austin_wx.jpg" width="100px" height="100px">
