@@ -17,6 +17,12 @@ A Tiny Renderer that built on minimum requirements
 #### - Glyph SDK for JS
 A Javascript SDK for Seal Glyphs Project
 
+## Some of my Notes
+
+<a href="https://luniumluk.github.io/docs/least_squares.pdf" target="_blank">Least Squares Note</a>
+<a href="https://luniumluk.github.io/docs/quaternion_rotation.pdf" target="_blank">Quaternion and Rotation</a>
+<a href="https://luniumluk.github.io/docs/SIMD.pdf" target="_blank">SIMD Note</a>
+
 ## Selection of My Works
 
 ### Computer Graphics & Visualization:
