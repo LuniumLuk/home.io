@@ -19,9 +19,13 @@ A Javascript SDK for Seal Glyphs Project
 
 ## Some of my Notes
 
-<a href="https://luniumluk.github.io/docs/least_squares.pdf" target="_blank">Least Squares Note</a>
-<a href="https://luniumluk.github.io/docs/quaternion_rotation.pdf" target="_blank">Quaternion and Rotation</a>
-<a href="https://luniumluk.github.io/docs/SIMD.pdf" target="_blank">SIMD Note</a>
+[1] <a href="https://luniumluk.github.io/docs/least_squares.pdf" target="_blank">Least Squares Note</a>
+
+[2] <a href="https://luniumluk.github.io/docs/quaternion_rotation.pdf" target="_blank">Quaternion and Rotation Note</a>
+
+[3] <a href="https://luniumluk.github.io/docs/SIMD.pdf" target="_blank">SIMD Note</a>
+
+[4] <a href="https://luniumluk.github.io/docs/barycentric_coords.pdf" target="_blank">Barycentric Coordinates Note</a>
 
 ## Selection of My Works
 
