@@ -25,7 +25,7 @@ A Javascript SDK for Seal Glyphs Project
 
 [3] <a href="https://luniumluk.github.io/docs/SIMD.pdf" target="_blank">SIMD Note</a>
 
-[4] <a href="https://luniumluk.github.io/docs/barycentric_coords.pdf" target="_blank">Barycentric Coordinates Note</a>
+[4] <a href="https://luniumluk.github.io/docs/barycentric_coords.pdf" target="_blank">Barycentric Coordinates Note [update!]</a>
 
 ## Selection of My Works
 
