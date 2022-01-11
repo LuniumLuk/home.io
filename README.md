@@ -4,7 +4,7 @@ Undergraduate of Dept. of Computer Science Zhejiang University. I like Graphics,
 
 [github](https://github.com/LuniumLuk) \| [gitee](https://gitee.com/lunium) \| [email](3180101939@zju.edu.cn)
 
-## Ongoing Works
+## :open_book: Ongoing Works
 
 #### - Lu Renderer
 A Tiny Renderer that built on minimum requirements
@@ -17,19 +17,11 @@ A Tiny Renderer that built on minimum requirements
 #### - Glyph SDK for JS
 A Javascript SDK for Seal Glyphs Project
 
-## Some of my Notes
+#### - :books: [My Blog](https://luniumluk.github.io/docs-blog/)
 
-[1] <a href="https://luniumluk.github.io/docs/least_squares.pdf" target="_blank">Least Squares Note</a>
+## :label: Selection of My Works
 
-[2] <a href="https://luniumluk.github.io/docs/quaternion_rotation.pdf" target="_blank">Quaternion and Rotation Note</a>
-
-[3] <a href="https://luniumluk.github.io/docs/SIMD.pdf" target="_blank">SIMD Note</a>
-
-[4] <a href="https://luniumluk.github.io/docs/barycentric_coords.pdf" target="_blank">Barycentric Coordinates Note [update!]</a>
-
-## Selection of My Works
-
-### Computer Graphics & Visualization:
+### :computer: Computer Graphics & Visualization:
 
 #### 1. A Visualization of Badminton Career Record [github](https://github.com/LuniumLuk/Badminton-Career-Vis)
 
@@ -43,7 +35,7 @@ An implementation of SIGGRAPH Asia's 2020 paper: [X-Fields: Implicit Neural View
 
 
 
-### GAME:
+### :video_game: GAME:
 
 #### 1. Global Game Jam 2021 [bilibili](https://www.bilibili.com/video/BV1Ty4y1n7uZ)
 
@@ -53,7 +45,7 @@ An implementation of SIGGRAPH Asia's 2020 paper: [X-Fields: Implicit Neural View
 
 
 
-### MiniProgram:
+### :iphone: MiniProgram:
 
 #### 1. Zeguan Seal Wechat Miniprogram
 <img src="https://luniumluk.github.io/images/seal_wx.jpg" width="100px" height="100px">
