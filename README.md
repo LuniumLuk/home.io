@@ -11,7 +11,9 @@ A Tiny Renderer that built on minimum requirements
 
 [Lu Renderer >>](https://github.com/LuniumLuk/lurenderer)
 
-<img src="https://luniumluk.github.io/images/triangle_rasterization.png" width="300px" height="300px">
+<img src="https://luniumluk.github.io/images/unlit_shading.gif" width="300px" height="300px">
+
+<img src="https://luniumluk.github.io/images/vertex_normal_shading.png" width="300px" height="300px">
 
 #### - Austin+ Wechat Miniprogram
 <img src="https://luniumluk.github.io/images/austin_wx.jpg" width="100px" height="100px">
