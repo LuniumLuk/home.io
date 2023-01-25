@@ -1,61 +1,58 @@
 # Ziyi Lu
 
-Undergraduate of Dept. of Computer Science Zhejiang University. I like Graphics, Web developing and Games.
+I am currently a graduate student of Dept. of Computer Science of Zhejiang University. I like Computer Graphics, especially Rendering. I also have interest in Game Developing and Mini-program Developing.
 
-[github](https://github.com/LuniumLuk) \| [gitee](https://gitee.com/lunium) \| [email](3180101939@zju.edu.cn) \| [CV](https://luniumluk.github.io/docs/cv.pdf)
+[github](https://github.com/LuniumLuk) \| [gitee](https://gitee.com/lunium) \| [email](ziyilu@zju.edu.cn) \| [CV](https://luniumluk.github.io/docs/cv.pdf)
 
-## :open_book: Ongoing Works
+## Computer Graphics
 
-#### - Lu Renderer
-A Tiny Renderer that built on minimum requirements 
+1. Soft-Renderer [github repo](https://github.com/LuniumLuk/soft-renderer)
+   
+    A Tiny Renderer built on minimum dependencies 
 
-[Lu Renderer >>](https://github.com/LuniumLuk/lurenderer)
+1. SIGGRAPH Asia 2020 X-Field implementation in pytorch [github repo](https://github.com/LuniumLuk/xfield-pytorch)
 
-<img src="https://luniumluk.github.io/images/unlit_shading.gif" width="300px" height="300px">
+    An implementation of SIGGRAPH Asia's 2020 paper: [X-Fields: Implicit Neural View-, Light- and Time-Image Interpolation](https://xfields.mpi-inf.mpg.de/), with Pytorch
 
-<img src="https://luniumluk.github.io/images/vertex_normal_shading.png" width="300px" height="300px">
+## Computer Visualization
 
-#### - Austin+ Wechat Miniprogram
-<img src="https://luniumluk.github.io/images/austin_wx.jpg" width="100px" height="100px">
+1. A Visualization of Badminton Career [github repo](https://github.com/LuniumLuk/Badminton-Career-Vis)
 
-#### - Glyph SDK for JS
-A Javascript SDK for Seal Glyphs Project
+    A visualization of badminton career life for badminton starts, developed with Vue, D3js and Scrapy
 
-#### - :books: [My Blog >>](https://luniumluk.github.io/docs-blog/)
+2. A Visualization Tool for Blockchain [github repo](https://github.com/LBruyne/view-blockchain)
+   
+## Web and Miniprogram
 
-## :label: Selection of My Works
+1. Glyph SDK for JS [release page](https://gitlab.jadefoci.com:1443/seal-sdk/js-sdk-release)
 
-### :computer: Computer Graphics & Visualization:
+    A Javascript SDK for Seal Glyphs Project of [Jadefoci](https://www.jadefoci.com)
 
-#### 1. A Visualization of Badminton Career Record [github >>](https://github.com/LuniumLuk/Badminton-Career-Vis)
+2. Zeguan Seal Wechat Miniprogram
 
-A visualization of badminton career life for badminton starts, developed with **Vue**, **D3js** and **Scrapy**
+    <img src="https://luniumluk.github.io/images/seal_wx.jpg" width="100px" height="100px">
 
-#### 2. SIGGRAPH Asia 2020 X-Field implementation in pytorch [github >>](https://github.com/LuniumLuk/xfield-pytorch)
+3. AI Seal Ali Miniprogram
+    
+    <img src="https://luniumluk.github.io/images/seal_ali.jpg" width="100px">
 
-An implementation of SIGGRAPH Asia's 2020 paper: [X-Fields: Implicit Neural View-, Light- and Time-Image Interpolation](https://xfields.mpi-inf.mpg.de/), with **Pytorch**
+4. KK Kanban
+    
+    <img src="https://luniumluk.github.io/images/kk_wx.jpg" width="100px" height="100px">
 
-#### 3. A Visualization Tool of Blockchain [github >>](https://github.com/LBruyne/view-blockchain)
+5. Tongwei App
+    
+    <img src="https://luniumluk.github.io/images/tongwei.jpg" width="100px" height="100px">
 
+6. Austin+ Wechat Miniprogram
 
+    <img src="https://luniumluk.github.io/images/austin_wx.jpg" width="100px" height="100px">
 
-### :video_game: GAME:
+## Game Development
 
-#### 1. Global Game Jam 2021 [bilibili](https://www.bilibili.com/video/BV1Ty4y1n7uZ)
+1. Global Game Jam 2021 [bilibili](https://www.bilibili.com/video/BV1Ty4y1n7uZ)
 
-#### 2. CiGA Game Jam 2021 [bilibili](https://www.bilibili.com/video/BV1dh411h7Na)
+2. CiGA Game Jam 2021 [bilibili](https://www.bilibili.com/video/BV1dh411h7Na)
 
-#### 3. Game: Sisphury's Illusion [bilibili](https://www.bilibili.com/video/BV1uM4y1N75u)
+3. Course project: Sisphury's Illusion [bilibili](https://www.bilibili.com/video/BV1uM4y1N75u)
 
-
-
-### :iphone: MiniProgram:
-
-#### 1. Zeguan Seal Wechat Miniprogram
-<img src="https://luniumluk.github.io/images/seal_wx.jpg" width="100px" height="100px">
-
-#### 2. AI Seal Ali Miniprogram
-<img src="https://luniumluk.github.io/images/seal_ali.jpg" width="100px">
-
-#### 3. KK Kanban
-<img src="https://luniumluk.github.io/images/kk_wx.jpg" width="100px" height="100px">
