@@ -42,7 +42,6 @@ minima:
   #   - { platform: stackoverflow,  user_url: "https://stackoverflow.com/users/1234567/jekyll" }
     - { platform: telegram,       user_url: "https://t.me/LuniumLuk" }
     - { platform: twitter,        user_url: "https://twitter.com/lunium4" }
-    - { platform: bilibili,       user_url: "https://space.bilibili.com/25337940" }
   #   - { platform: youtube,        user_url: "https://www.youtube.com/jekyll" }
 
 # If you want to link only specific pages in your header, uncomment this and add the path to the pages in
