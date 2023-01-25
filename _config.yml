@@ -1,13 +1,8 @@
-theme: jekyll-theme-midnight
-title: Ziyi Lu's Homepage
-description: An enthusiast of Computer Graphics, Web Dev & Games
-logo: https://luniumluk.github.io/images/avatar.jpg
-
-
 title: Ziyi Lu's Homepage
 author:
   name: LuniumLuk
   email: ziyilu@zju.edu.cn
+logo: https://luniumluk.github.io/images/avatar.jpg
 
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
