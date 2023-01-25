@@ -1,5 +1,3 @@
-# Ziyi Lu
-
 I am currently a graduate student of Dept. of Computer Science of Zhejiang University. I like Computer Graphics, especially Rendering. I also have interest in Game Developing and Mini-program Developing.
 
 [github](https://github.com/LuniumLuk) \| [gitee](https://gitee.com/lunium) \| [email](ziyilu@zju.edu.cn) \| [CV](https://luniumluk.github.io/docs/cv.pdf)
