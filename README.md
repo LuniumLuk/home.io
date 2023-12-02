@@ -6,6 +6,14 @@ I am a graduate student of [GAPS Lab](http://kunzhou.net/zjugaps/) Dept. of Comp
 
 ## Computer Graphics
 
+<img src="https://luniumluk.github.io/images/SoftRasterizer.png" height="160px">
+<img src="https://luniumluk.github.io/images/Tira.png" height="160px">
+<img src="https://luniumluk.github.io/images/ash.jpg" height="160px">
+
+<img src="https://luniumluk.github.io/images/marschner_hair.jpg" height="160px">
+<img src="https://luniumluk.github.io/images/ddrenderer.jpg" height="160px">
+<img src="https://luniumluk.github.io/images/ssss.jpg" height="160px">
+
 <style>
 td, th {
    border: none!important;
