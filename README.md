@@ -6,18 +6,21 @@ I am a graduate student of [GAPS Lab](http://kunzhou.net/zjugaps/) Dept. of Comp
 
 ## Computer Graphics
 
+<style>
+td, th {
+   border: none!important;
+}
+</style>
 
-<img src="https://luniumluk.github.io/images/SoftRasterizer.png" height="100px"><img src="https://luniumluk.github.io/images/Tira.png" height="100px"><img src="https://luniumluk.github.io/images/ash.jpg" height="100px"><img src="https://luniumluk.github.io/images/marschner_hair.jpg" height="100px"><img src="https://luniumluk.github.io/images/ssss.jpg" height="100px"><img src="https://luniumluk.github.io/images/ddrenderer.jpg" height="100px">
-
-1. Soft-Renderer : A Tiny Renderer built on minimum dependencies <a href="https://github.com/LuniumLuk/SoftRenderer">[github]</a>
-
-2. Tira : A tiny ray tracer implemented on CPU/GPU <a href="https://github.com/LuniumLuk/Tira">[github]</a>
-
-3. Personal Implementation of [Analytic Spherical Harmonic Coefficients for Polygonal Area Lights](https://cseweb.ucsd.edu/~viscomp/projects/ash/) (SIGGRAPH 2018) <a href="https://github.com/LuniumLuk/AnalyticSHAreaLight">[github]</a>
-
-4. Personal Implementation of [X-Fields: Implicit Neural View-, Light- and Time-Image Interpolation](https://xfields.mpi-inf.mpg.de/) (SIGGRAPH Asia 2020) with pytorch <a href="https://github.com/LuniumLuk/xfield-pytorch">[github]</a>
-
-5. A Real-time Vulkan Renderer with following features: Separable Subsurface Scattering/Screen Space Refraction/TAA
+|     |     |
+| --- | --- |
+| <img src="https://luniumluk.github.io/images/SoftRasterizer.png" width="100px"> | Soft-Renderer : A Tiny Renderer built on minimum dependencies <a href="https://github.com/LuniumLuk/SoftRenderer">[github]</a> |
+| <img src="https://luniumluk.github.io/images/Tira.png" width="100px"> | Tira : A tiny ray tracer implemented on CPU/GPU <a href="https://github.com/LuniumLuk/Tira">[github]</a> |
+| <img src="https://luniumluk.github.io/images/ash.jpg" width="100px"> | Personal Implementation of [Analytic Spherical Harmonic Coefficients for Polygonal Area Lights](https://cseweb.ucsd.edu/~viscomp/projects/ash/) (SIGGRAPH 2018) <a href="https://github.com/LuniumLuk/AnalyticSHAreaLight">[github]</a> |
+| | Personal Implementation of [X-Fields: Implicit Neural View-, Light- and Time-Image Interpolation](https://xfields.mpi-inf.mpg.de/) (SIGGRAPH Asia 2020) with pytorch <a href="https://github.com/LuniumLuk/xfield-pytorch">[github]</a> |
+| <img src="https://luniumluk.github.io/images/marschner_hair.jpg" width="100px"> | An OpenGL Strand-based Hair demo, implemented Kajiya Kay & Marschner Model and Temporal AA |
+| <img src="https://luniumluk.github.io/images/ddrenderer.jpg" width="100px"> | A Real-time Vulkan Renderer features: Separable Subsurface Scattering/Screen Space Refraction |
+| <img src="https://luniumluk.github.io/images/ssss.jpg" width="100px"> | |
 
 ## Visualization
 
