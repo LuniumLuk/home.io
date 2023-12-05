@@ -6,6 +6,10 @@ I am a graduate student of [GAPS Lab](http://kunzhou.net/zjugaps/) Dept. of Comp
 
 ## Computer Graphics
 
+<img src="https://luniumluk.github.io/images/hand.jpg" height="160px">
+
+Recently I have been doing works related to Digital Human, including Neural-based MVS High-Quality Face Asset Reconstruction, Single RGB=D Hand Shape and Texture Reconstruction.
+
 <img src="https://luniumluk.github.io/images/SoftRasterizer.png" height="160px">
 <img src="https://luniumluk.github.io/images/Tira.png" height="160px">
 <img src="https://luniumluk.github.io/images/ash.jpg" height="160px">
