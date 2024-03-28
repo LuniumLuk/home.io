@@ -72,3 +72,108 @@ td, th {
 
 3. Course project: Sisphury's Illusion [bilibili](https://www.bilibili.com/video/BV1uM4y1N75u)
 
+
+## Languages & Skills
+
+<style>
+    .tier img {
+        width: 40px;
+    }
+</style>
+
+<style>
+    .tier-list {
+        width: 80%;
+        margin: auto;
+        overflow: hidden;
+    }
+
+    .tier {
+        background-color: #f0f0f0;
+        display: flex;
+        align-items: center;
+    }
+
+    .tier-header {
+        font-size: 24px;
+        color: white;
+        padding: 10px;
+        margin-right: 20px;
+        width: 80px;
+        text-align: center;
+    }
+
+    .tier-items {
+        padding-top: 10px;
+    }
+</style>
+
+### Programming languages
+
+<div class="tier-list">
+    <div class="tier">
+        <div class="tier-header" style="background-color: #D70040;">S Tier</div>
+        <div class="tier-items">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
+        </div>
+    </div>
+    <div class="tier">
+        <div class="tier-header" style="background-color: #E5E500;">A Tier</div>
+        <div class="tier-items">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />
+        </div>
+    </div>
+    <div class="tier">
+        <div class="tier-header" style="background-color: #00ABE7;">B Tier</div>
+        <div class="tier-items">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original-wordmark.svg" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+        </div>
+    </div>
+</div>
+
+### Frameworks & Tools
+
+<div class="tier-list">
+    <div class="tier">
+        <div class="tier-header" style="background-color: #D70040;">S Tier</div>
+        <div class="tier-items">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original-wordmark.svg" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opengl/opengl-original.svg" />
+            <img src="https://luniumluk.github.io/images/vulkan.svg" />
+        </div>
+    </div>
+    <div class="tier">
+        <div class="tier-header" style="background-color: #E5E500;">A Tier</div>
+        <div class="tier-items">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unrealengine/unrealengine-original-wordmark.svg" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original-wordmark.svg" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maya/maya-original-wordmark.svg" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" />
+        </div>
+    </div>
+    <div class="tier">
+        <div class="tier-header" style="background-color: #00ABE7;">B Tier</div>
+        <div class="tier-items">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threejs/threejs-original-wordmark.svg" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" />
+        </div>
+    </div>
+    <div class="tier">
+        <div class="tier-header" style="background-color: #008744;">C Tier</div>
+        <div class="tier-items">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xcode/xcode-original.svg" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original-wordmark.svg" />
+        </div>
+    </div>
+</div>
+
+
+
